@@ -1,0 +1,11 @@
+body{
+    background-color: midnightblue;
+}
+
+.boton{
+    color:blue;
+    bottom: unset;
+    text-align: center;
+    font-style: unset;
+    font-family: 'Josefin Sans', sans-serif;
+}
