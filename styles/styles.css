@@ -1,8 +1,15 @@
+*{
+    margin: 7px;
+    padding: 7px;
+    text-decoration: none;
+    /* list-style:lower-roman; */
+}
+
 body{
     background-color: midnightblue;
 }
 
-.boton{
+.encabezados{
     color:blue;
     bottom: unset;
     text-align: center;
@@ -10,14 +17,9 @@ body{
     font-family: 'Josefin Sans', sans-serif;
 }
 
-#nombre, #apellido{
+.formularios{
     color:blue;
     bottom: unset;
-    text-align: center;
-    font-style: unset;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-input{
-    width: max-content;
+    text-align: left;
+    font-family: 'Lilita One', cursive;
 }
