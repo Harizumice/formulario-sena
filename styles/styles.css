@@ -9,3 +9,15 @@ body{
     font-style: unset;
     font-family: 'Josefin Sans', sans-serif;
 }
+
+#nombre, #apellido{
+    color:blue;
+    bottom: unset;
+    text-align: center;
+    font-style: unset;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+input{
+    width: max-content;
+}
